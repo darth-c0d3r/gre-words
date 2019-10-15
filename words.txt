@@ -818,11 +818,23 @@ untoward			: unexpected ; inconvenient ; inappropriate
 ineluctable			: unavoidable
 finagle				: obtain something by dishonest ways and trickery
 delirious			: in an acutely disturbed state of mind
-parvenu(e)			: once humble now a celeb and arrogant (derogatory)
-upstart				: once humble now a celeb and arrogant (derogatory)
-arriviste			: once humble now a celeb and arrogant (derogatory)
+parvenu(e)			: once humble but now a celeb and arrogant (derogatory)
+upstart				: once humble but now a celeb and arrogant (derogatory)
+arriviste			: once humble but now a celeb and arrogant (derogatory)
 culpability			: state of guilt
 macabre				: gruesome
 demure 				: modest and shy
 apostate			: rejector of faith ; heretic
-turgid				: 
+turgid				: tediously pompous ; (usage - his novels are turgid)
+quail 				: show fear and apprehension
+guile				: sly ; cunningly intelligent
+hector				: bully
+paucity				: scarcity ; dearth of
+grovel				: lie or crawl on ground with face down ; act in obsequious manner for favor or forgiveness
+sybarite			: hedonist
+saturnine			: sombre and gloomy
+anathema			: something or someone that one vehemently dislikes
+litany				: a long account
+trammeled			: deprived of freedom
+coterminous			: equal in scope ; having same boundaries
+maunder				: meander ; wander
