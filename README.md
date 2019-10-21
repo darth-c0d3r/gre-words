@@ -369,7 +369,7 @@ Just run ```python3 practice.py```. It will read the words from words.txt and as
 + fervor				: passion, zeal
 + baroque				: ornate design
 + conciliatory		: intended or likely to placate or pacify
-+ invidious			: unpleasant ; awkward situation
++ invidious			: unpleasant ; awkward 
 + countenance			: give support or approval
 + byzantine			: complicated
 + trenchant			: vigorous or incisive in expression or style
@@ -450,7 +450,7 @@ Just run ```python3 practice.py```. It will read the words from words.txt and as
 + gawky				: awkward
 + munificent			: generous
 + facetious			: treating serious issues with deliberately inappropriate humor
-+ flippant			: treating serious issues with deliberately inappropriate humor
++ flippant			: treating serious issues with deliberately inappropriate humor ; disrespectful
 + acolytes			: followers
 + dissent 			: disagreement
 + recrudescent		: coming back again ; reviving
@@ -744,7 +744,7 @@ Just run ```python3 practice.py```. It will read the words from words.txt and as
 + ordeal				: unpleasant and prolonged experience
 + indignation			: anger provoked by unfair treatment
 + dementia			: mental illness ; madness
-+ exhort				: strongly encourage
++ exhort				: strongly urge or encourage
 + preposterous		: contrary to common sense ; stupid
 + visceral			: relating to emotions / inner feelings than logic
 + emphatic			: expressing forcibly and clearly ; means business
@@ -769,7 +769,6 @@ Just run ```python3 practice.py```. It will read the words from words.txt and as
 + semblance			: misleading appearance
 + graft 				: corruption
 + lugubrious			: sad and dismal
-+ delirious			: in a state of wild excitement or ecstasy OR hysterical and mad
 + asperity			: harshness of manner
 + immure 				: enclose someone against their will
 + deprecate			: express disapproval
@@ -803,7 +802,7 @@ Just run ```python3 practice.py```. It will read the words from words.txt and as
 + protract			: prolong ; extend
 + furtive				: secretive ; surreptitious
 + chimera				: illusion
-+ derelict			: in a poor condition because of ignorance and misuse
++ derelict			: in a poor condition because of ignorance and misuse ; negligent in duties
 + delectable			: delicious
 + innate 				: inborn ; natural
 + impetus 			: momentum of a body
@@ -839,8 +838,90 @@ Just run ```python3 practice.py```. It will read the words from words.txt and as
 + sybarite			: hedonist
 + saturnine			: sombre and gloomy
 + anathema			: something or someone that one vehemently dislikes
-+ litany				: a long account
++ litany				: a long and tedious account
 + trammeled			: deprived of freedom
 + coterminous			: equal in scope ; having same boundaries
 + maunder				: meander ; wander
-
++ docile				: submissive ; compliant
++ rebuttal			: refutation
++ stultify			: sap enthusiasm
++ expansive			: extensive and covering all bases ; sociable
++ surly 				: bad-tempered
++ chortle				: laugh merrily
++ raillery			: good humored teasing
++ pyrrhic				: a victory at too large a cost
++ fleece				: deceive
++ sangfroid			: calm under pressure ; aplomb
++ redoubtable			: formidable as an opponent
++ leery				: cautious due to realistic suspicions ; (usage - a city leery of gang violence)
++ defray				: pay cost of
++ underwrite			: support financially
++ winsome				: attractive and charming
++ pillory				: ridicule publicly
++ quisling			: traitor
++ posit 				: assume as a fact to start a discussion/argument
++ delineate			: describe in detail
++ bereft of 			: lacking in
++ archetype			: a typical example
++ appropriated		: take without permission
++ proxy				: a substitute
++ poise 				: grace and elegance
++ rhetoric			: oratory ; language used to enthuse
++ captious			: very critical
++ appurtenant			: pertinent ; belonging ; (usage - files appurtenant to the building)
++ simulacrum			: a bad imitation
++ remonstrate			: protest vehemently
++ desideratum			: necessity ; requirement ; (usage - integrity was a desideratum)
++ canard				: a false report or story
++ doughty				: brave and persistent
++ smattering			: a small amount of something ; (usage - a smattering of snow)
++ beatific			: a blissfully happy feeling
++ devolve				: delegate ; (usage - his powers devolved to his subordinates)
++ feted				: glorified and celebrated ; (usage - the instant celeb was feted by the media)
++ impute 				: attribute ; ascribe ; (usage - the crimes imputed to Jon Doe)
++ extricate			: free someone ; release ; disentangle
++ fluster				: confuse ; confound ; unsettle
++ sleuthing			: investigate ; carry out a search
++ plebeian			: belonging to lower-class
++ proletarian			: belonging to lower-class
++ secular				: not connected with religious matters
++ nebulous			: vague and ill-defined
++ temporal			: relating to worldly issues as opposed to religious issues
++ pervasive			: widespread
++ remiss				: negligent
++ dogma 				: set of principles
++ candor				: frankness ; candidness
++ deportment			: behavior and mannerisms
++ temperate			: restrained and controlled ; moderate
++ chary 				: cautious and circumspect
++ ostensibly			: apparently
++ congenial			: like-minded person
++ conversant			: knowledgeable about something
++ calamitous			: catastrophic
++ licentious			: unprincipled in sexual matters ; promiscuous
++ reliquary			: a container for holy relics
++ accrue				: accumulate (money or benefits) over time
++ adjure				: request someone earnestly to do something
++ pronouncement		: a formal announcement or declaration
++ proclamation		: a formal announcement or declaration
++ disbursement		: payment of money
++ presentiment		: an intuitive feeling about the future
++ cull 				: obtain from a variety of sources ; reduce the population by selective slaughter
++ consort				: companion
++ imbue				: inspire or relate with (a feeling or quality)
++ insuperable			: impossible to overcome
++ chasten				: subdue or flatten or humble
++ categorical			: unambiguously explicit and direct
++ unqualified			: unambiguously explicit and direct
++ dispassionate		: not influenced by emotion and hence rational and unbiased
++ exhilarating		: making one very happy and thrilled
++ poltroon			: coward
++ astute				: sharp-witted and intelligent
++ parlous				: perilous
++ gesticulation		: a gesture used instead of speaking
++ oligarchy			: a constitution in which power rests with a small group
++ neoteric			: modern and recent
++ resplendent			: bright and showy (positive)
++ garish				: bright and showy (positive)
++ lurid				: unpleasantly bright in color
++ sumptuous			: splendid and expensive looking
