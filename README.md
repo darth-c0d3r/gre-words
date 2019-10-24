@@ -865,7 +865,7 @@ Just run ```python3 practice.py```. It will read the words from words.txt and as
 + archetype			: a typical example
 + appropriated		: take without permission
 + proxy				: a substitute
-+ poise 				: grace and elegance
++ poise 				: grace and elegance ; confidence
 + rhetoric			: oratory ; language used to enthuse
 + captious			: very critical
 + appurtenant			: pertinent ; belonging ; (usage - files appurtenant to the building)
@@ -925,3 +925,28 @@ Just run ```python3 practice.py```. It will read the words from words.txt and as
 + garish				: bright and showy (positive)
 + lurid				: unpleasantly bright in color
 + sumptuous			: splendid and expensive looking
++ punitive 			: intended as a punishment
++ unremitting			: unstopping ; incessant
++ disquieting			: making one feel anxious ; qualms
++ blandishment		: a flattering statement
++ cajole				: persuade someone to do something through flattery
++ importune			: harass someone persistently to do something
++ plangent			: a loud and mournful sound (e.g. of a harpsichord)
++ defection			: the desertion of one's country or cause in favor of an opposing one
++ dispel 				: make something (a doubt, a feeling) disappear
++ tenuous				: very weak and insubstantial
++ consternation		: a feeling of anxiety or dismay, typically at something unexpected
++ recalcitrant		: uncooperative
++ sojourn				: a temporary stay
++ minatory			: threatening and menacing
++ palliative			: relieving pain without dealing with the cause
++ asphyxiation		: deprived of oxygen
++ rectitude			: morally correct behavior
++ commingle			: mix and blend
++ aggrandize			: increase the power/status of
++ perquisite			: perk/benefit of a job/status
++ aegis				: protection, backing or support of a person/organization
++ partisanship		: bias in favor of
++ posture				: behave in a way to impress or mislead
++ notwithstanding		: in spite of
++ ill at ease 		: uncomfortable or embarrassed
